@@ -1,1 +1,0 @@
-# CSE370_Final_Project_medical-sos
